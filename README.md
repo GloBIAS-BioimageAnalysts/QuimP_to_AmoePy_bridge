@@ -16,13 +16,15 @@ You first need to convert the `.QCONF` file containing all the data from the ana
 1) Open the `QuimP BAR` in **Fiji**
 2) Select the `Format Converter` plugin
 
-![Select the 'Format Converter' plugin from the QuimP Bar.](./images/Fig1.png)
+<img src="./images/Fig1.png" alt="Select the 'Format Converter' plugin from the QuimP Bar." width="500">
+
 
 3) Load the `.QCONF` file containing the contour analysis using the `Load QCONF` button.
 
 4) Select `snakes` and make sure to __unselect__ `File per frame`, so that it reads `File per cell`.
 
-![Extract the contour snake data for all timeframes in one file.](./images/Fig2.png)
+<img src="./images/Fig2.png" alt="Extract the contour snake data for all timeframes in one file." width="500">
+
 
 5) You will end up with a `_snake.csv` file for each cell detected in your analysis.
 
