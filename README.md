@@ -6,6 +6,7 @@ Simple notebok for converting QuimP segmented cell contours to a format that can
 - ~~Write instructions to get the sname.csv file from QuimP~~
 - Write instructions to run notebook
 - ~~Make notebook available on Colab (?)~~
+- Set up COLAb so that notebook can be run and edited but not save changes (?)
 - ~~Add a description of the different snake data types~~
 - Add example snake.csv file for testing
 - Add option to run on entire directory and save each file individually (?)
@@ -39,4 +40,4 @@ In order to be able to be imported into **AmoePy**, the snake contour coordinate
 
 ## Running the notebook
 
-The conversion notebook is also available in [Google Colab](https://colab.research.google.com/github/GloBIAS-BioimageAnalysts/QuimP_to_AmoePy_bridge/blob/main/QuimP_to_AmoePy_snake_converter.ipynb)
+The conversion notebook is also available in [Google Colab](https://colab.research.google.com/drive/1AgYfDaqtQbIbpXRsVpj-CPvQzL6-Qbc-?usp=sharing)
